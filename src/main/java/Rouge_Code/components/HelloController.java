@@ -1,4 +1,4 @@
-package org.rouge.rouge;
+package Rouge_Code.components;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

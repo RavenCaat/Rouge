@@ -1,5 +1,6 @@
-package org.rouge.rouge;
+package Rouge_Code;
 
+import Rouge_Code.components.HelloApplication;
 import javafx.application.Application;
 
 public class Launcher {

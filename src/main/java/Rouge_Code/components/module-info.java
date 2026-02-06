@@ -8,6 +8,8 @@ module org.rouge.rouge {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens org.rouge.rouge to javafx.fxml;
-    exports org.rouge.rouge;
+    opens Rouge_Code to javafx.fxml;
+    exports Rouge_Code;
+    exports Rouge_Code.components;
+    opens Rouge_Code.components to javafx.fxml;
 }

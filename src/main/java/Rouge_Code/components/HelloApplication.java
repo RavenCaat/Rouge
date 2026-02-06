@@ -1,4 +1,4 @@
-package org.rouge.rouge;
+package Rouge_Code.components;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
